@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW15</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome">Welcome!!!</string>
+    <string name="sign_in_if_you_dont_have_n_any_accouts">Sign in, if you dont have\n          any accouts</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
